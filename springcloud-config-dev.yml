@@ -11,8 +11,8 @@ config:
   email:
     host: smtp.163.com
     sender:
-      name: 
-      password: 
+      name: 13750051611@163.com
+      password: Lao85502349
     templates:
       checkcode:
         title: 注册验证码
